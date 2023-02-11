@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Azure Sentinel (SIEM)</b>
-  - [Azure Sentinel Tutorial with Live Mapping (SIEM)](https://github.com/trevorbrandtit/osticket-prereqs)
+- <b>Cybersecurity</b>
+  - [Azure Sentinel Tutorial with Live Mapping (SIEM)](https://github.com/TrevorBrandtIT/sentinel-live) 
+  - [Nessus Tutorial: Vulnerability Management](https://github.com/TrevorBrandtIT/nessus-tutorial)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/trevorbrandtit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/trevorbrandtit/post-install-config)
