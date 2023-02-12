@@ -5,6 +5,7 @@
 - <b>Cybersecurity</b>
   - [Azure Sentinel Tutorial with Live Mapping (SIEM)](https://github.com/TrevorBrandtIT/sentinel-live) 
   - [Nessus Tutorial: Vulnerability Management](https://github.com/TrevorBrandtIT/nessus-tutorial)
+  - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtIT/fim-demo)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/trevorbrandtit/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/trevorbrandtit/post-install-config)
