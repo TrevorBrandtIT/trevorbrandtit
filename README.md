@@ -2,19 +2,20 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Cybersecurity</b>
-  - [Azure Sentinel Tutorial with Live Mapping (SIEM)](https://github.com/TrevorBrandtIT/sentinel-live) 
-  - [Nessus Tutorial: Vulnerability Management](https://github.com/TrevorBrandtIT/nessus-tutorial)
-  - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtIT/fim-demo)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/trevorbrandtit/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/trevorbrandtit/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/trevorbrandtit/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/trevorbrandtit/configure-ad)
   - [Building Intuition With DNS](https://github.com/TrevorBrandtIT/dns-intuition)
   - [Network File Shares and Permissions](https://github.com/TrevorBrandtIT/file-shares-and-permissions)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/trevorbrandtit/azure-network-protocols)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/trevorbrandtit/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/trevorbrandtit/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/trevorbrandtit/ticket-lifecycle)
+- <b>Cybersecurity</b>
+  - [Azure Sentinel Tutorial with Live Mapping (SIEM)](https://github.com/TrevorBrandtIT/sentinel-live) 
+  - [Nessus Tutorial: Vulnerability Management](https://github.com/TrevorBrandtIT/nessus-tutorial)
+  - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtIT/fim-demo)
+
 
 
 <h2>🤳Connect with me:</h2>
