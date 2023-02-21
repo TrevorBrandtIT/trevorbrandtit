@@ -12,8 +12,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/trevorbrandtit/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/trevorbrandtit/ticket-lifecycle)
 - <b>Cybersecurity</b>
-  - [Azure Sentinel Tutorial with Live Mapping (SIEM)](https://github.com/TrevorBrandtIT/sentinel-live) 
-  - [Nessus Tutorial: Vulnerability Management](https://github.com/TrevorBrandtIT/nessus-tutorial)
   - [File Integrity Monitor Demo (FIM)](https://github.com/TrevorBrandtIT/fim-demo)
 
 
